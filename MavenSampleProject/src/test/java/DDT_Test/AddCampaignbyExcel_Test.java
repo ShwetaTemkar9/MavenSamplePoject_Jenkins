@@ -45,6 +45,7 @@ public class AddCampaignbyExcel_Test {
 	@Test(enabled = false,priority=7)
 	public void Ajio() {
 		Reporter.log("Ajio executed",true);
+		//edited on git for test
 	}
 	}
 
